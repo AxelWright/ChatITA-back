@@ -1,9 +1,9 @@
 {
-  "name": "chatapp-server",
+  "name": "chatita-server",
   "version": "0.0.1",
-  "description": "ChatApp server",
+  "description": "ChatITA server",
   "main": "index.js",
-  "author": "Agustin Navarro Galdon",
+  "author": "Axel Ramos",
   "license": "MIT",
   "type": "module",
   "scripts": {
